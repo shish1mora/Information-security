@@ -1,0 +1,89 @@
+C:\Users\Jake\Desktop\Лабы\ИБ\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Jake\Desktop\Лабы\ИБ\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Jake\Desktop\Лабы\ИБ\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Jake\Desktop\Лабы\ИБ\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jake\Desktop\Лабы\ИБ\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\Jake\Desktop\Лабы\ИБ\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\Jake\Desktop\Лабы\ИБ\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Jake\Desktop\Лабы\ИБ\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jake\Desktop\Лабы\ИБ\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Jake\Desktop\Лабы\ИБ\WindowsFormsApp1\bin\Debug\System.Text.Json.dll
+C:\Users\Jake\Desktop\Лабы\ИБ\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Jake\Desktop\Лабы\ИБ\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+C:\Users\Jake\Desktop\Лабы\ИБ\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Jake\Desktop\Лабы\ИБ\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\Jake\Desktop\Лабы\ИБ\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\Jake\Desktop\Лабы\ИБ\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Jake\Desktop\Лабы\ИБ\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jake\Desktop\Лабы\ИБ\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Jake\Desktop\Лабы\ИБ\WindowsFormsApp1\bin\Debug\System.Text.Json.xml
+C:\Users\Jake\Desktop\Лабы\ИБ\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Jake\Desktop\Лабы\ИБ\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+C:\Users\Jake\Desktop\Лабы\ИБ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Jake\Desktop\Лабы\ИБ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jake\Desktop\Лабы\ИБ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Jake\Desktop\Лабы\ИБ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Jake\Desktop\Лабы\ИБ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Jake\Desktop\Лабы\ИБ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Jake\Desktop\Лабы\ИБ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Jake\Desktop\Лабы\ИБ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Jake\Desktop\Лабы\ИБ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\4 курс\ИБ\laba6\bin\Debug\WindowsFormsApp1.exe.config
+E:\4 курс\ИБ\laba6\bin\Debug\WindowsFormsApp1.exe
+E:\4 курс\ИБ\laba6\bin\Debug\WindowsFormsApp1.pdb
+E:\4 курс\ИБ\laba6\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\4 курс\ИБ\laba6\bin\Debug\System.Buffers.dll
+E:\4 курс\ИБ\laba6\bin\Debug\System.Memory.dll
+E:\4 курс\ИБ\laba6\bin\Debug\System.Numerics.Vectors.dll
+E:\4 курс\ИБ\laba6\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\4 курс\ИБ\laba6\bin\Debug\System.Text.Encodings.Web.dll
+E:\4 курс\ИБ\laba6\bin\Debug\System.Text.Json.dll
+E:\4 курс\ИБ\laba6\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\4 курс\ИБ\laba6\bin\Debug\System.ValueTuple.dll
+E:\4 курс\ИБ\laba6\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\4 курс\ИБ\laba6\bin\Debug\System.Buffers.xml
+E:\4 курс\ИБ\laba6\bin\Debug\System.Memory.xml
+E:\4 курс\ИБ\laba6\bin\Debug\System.Numerics.Vectors.xml
+E:\4 курс\ИБ\laba6\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\4 курс\ИБ\laba6\bin\Debug\System.Text.Encodings.Web.xml
+E:\4 курс\ИБ\laba6\bin\Debug\System.Text.Json.xml
+E:\4 курс\ИБ\laba6\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\4 курс\ИБ\laba6\bin\Debug\System.ValueTuple.xml
+E:\4 курс\ИБ\laba6\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\4 курс\ИБ\laba6\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+E:\4 курс\ИБ\laba6\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\4 курс\ИБ\laba6\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\4 курс\ИБ\laba6\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\4 курс\ИБ\laba6\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\4 курс\ИБ\laba6\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+E:\4 курс\ИБ\laba6\obj\Debug\WindowsFormsApp1.exe
+E:\4 курс\ИБ\laba6\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\4702306\source\repos\Collective-development-of-software-products\laba6\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\4702306\source\repos\Collective-development-of-software-products\laba6\bin\Debug\WindowsFormsApp1.exe
+C:\Users\4702306\source\repos\Collective-development-of-software-products\laba6\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\4702306\source\repos\Collective-development-of-software-products\laba6\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\4702306\source\repos\Collective-development-of-software-products\laba6\bin\Debug\System.Buffers.dll
+C:\Users\4702306\source\repos\Collective-development-of-software-products\laba6\bin\Debug\System.Memory.dll
+C:\Users\4702306\source\repos\Collective-development-of-software-products\laba6\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\4702306\source\repos\Collective-development-of-software-products\laba6\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\4702306\source\repos\Collective-development-of-software-products\laba6\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\4702306\source\repos\Collective-development-of-software-products\laba6\bin\Debug\System.Text.Json.dll
+C:\Users\4702306\source\repos\Collective-development-of-software-products\laba6\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\4702306\source\repos\Collective-development-of-software-products\laba6\bin\Debug\System.ValueTuple.dll
+C:\Users\4702306\source\repos\Collective-development-of-software-products\laba6\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\4702306\source\repos\Collective-development-of-software-products\laba6\bin\Debug\System.Buffers.xml
+C:\Users\4702306\source\repos\Collective-development-of-software-products\laba6\bin\Debug\System.Memory.xml
+C:\Users\4702306\source\repos\Collective-development-of-software-products\laba6\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\4702306\source\repos\Collective-development-of-software-products\laba6\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\4702306\source\repos\Collective-development-of-software-products\laba6\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\4702306\source\repos\Collective-development-of-software-products\laba6\bin\Debug\System.Text.Json.xml
+C:\Users\4702306\source\repos\Collective-development-of-software-products\laba6\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\4702306\source\repos\Collective-development-of-software-products\laba6\bin\Debug\System.ValueTuple.xml
+C:\Users\4702306\source\repos\Collective-development-of-software-products\laba6\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\4702306\source\repos\Collective-development-of-software-products\laba6\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\4702306\source\repos\Collective-development-of-software-products\laba6\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\4702306\source\repos\Collective-development-of-software-products\laba6\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\4702306\source\repos\Collective-development-of-software-products\laba6\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\4702306\source\repos\Collective-development-of-software-products\laba6\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\4702306\source\repos\Collective-development-of-software-products\laba6\obj\Debug\WindowsFormsApp1.exe
+C:\Users\4702306\source\repos\Collective-development-of-software-products\laba6\obj\Debug\WindowsFormsApp1.pdb

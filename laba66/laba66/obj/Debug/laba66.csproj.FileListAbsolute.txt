@@ -1,0 +1,2 @@
+C:\Users\4702306\source\repos\Collective-development-of-software-products\laba66\laba66\obj\Debug\laba66.csproj.AssemblyReference.cache
+C:\Users\4702306\source\repos\Collective-development-of-software-products\laba66\laba66\obj\Debug\laba66.csproj.CoreCompileInputs.cache

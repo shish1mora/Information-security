@@ -1,0 +1,12 @@
+E:\4 курс\ИБ\laba4\laba4\bin\Debug\laba4.exe.config
+E:\4 курс\ИБ\laba4\laba4\bin\Debug\laba4.exe
+E:\4 курс\ИБ\laba4\laba4\bin\Debug\laba4.pdb
+E:\4 курс\ИБ\laba4\laba4\obj\Debug\laba4.csproj.AssemblyReference.cache
+E:\4 курс\ИБ\laba4\laba4\obj\Debug\laba4.csproj.SuggestedBindingRedirects.cache
+E:\4 курс\ИБ\laba4\laba4\obj\Debug\laba4.AddUser.resources
+E:\4 курс\ИБ\laba4\laba4\obj\Debug\laba4.Properties.Resources.resources
+E:\4 курс\ИБ\laba4\laba4\obj\Debug\laba4.csproj.GenerateResource.cache
+E:\4 курс\ИБ\laba4\laba4\obj\Debug\laba4.csproj.CoreCompileInputs.cache
+E:\4 курс\ИБ\laba4\laba4\obj\Debug\laba4.exe
+E:\4 курс\ИБ\laba4\laba4\obj\Debug\laba4.pdb
+E:\4 курс\ИБ\laba4\laba4\obj\Debug\laba4.MainForm.resources

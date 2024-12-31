@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GHqgLbJoPZSRKOrknN6w1yeYkLEDg2xjWNOJLkOd42JxjKF6T+VNEfp1OYQG1/49+6wErZIOozUhUQmUjTkZ1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\4702306\\source\\repos\\Collective-development-of-software-products\\lb5_B\\lb5_B\\lb5_B.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\4702306\\.nuget\\packages\\system.codedom\\9.0.0\\system.codedom.9.0.0.nupkg.sha512",
+    "C:\\Users\\4702306\\.nuget\\packages\\system.management\\9.0.0\\system.management.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
