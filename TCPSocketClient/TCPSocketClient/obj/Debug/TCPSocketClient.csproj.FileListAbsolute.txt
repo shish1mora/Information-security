@@ -1,0 +1,51 @@
+C:\Users\Пользователь\source\repos\IB\Lab1\TCPSocketClient\TCPSocketClient\obj\Debug\TCPSocketClient.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\IB\Lab1\TCPSocketClient\TCPSocketClient\obj\Debug\TCPSocketClient.Form1.resources
+C:\Users\Пользователь\source\repos\IB\Lab1\TCPSocketClient\TCPSocketClient\obj\Debug\TCPSocketClient.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\IB\Lab1\TCPSocketClient\TCPSocketClient\obj\Debug\TCPSocketClient.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\IB\Lab1\TCPSocketClient\TCPSocketClient\obj\Debug\TCPSocketClient.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\IB\Lab1\TCPSocketClient\TCPSocketClient\bin\Debug\TCPSocketClient.exe.config
+C:\Users\Пользователь\source\repos\IB\Lab1\TCPSocketClient\TCPSocketClient\bin\Debug\TCPSocketClient.exe
+C:\Users\Пользователь\source\repos\IB\Lab1\TCPSocketClient\TCPSocketClient\bin\Debug\TCPSocketClient.pdb
+C:\Users\Пользователь\source\repos\IB\Lab1\TCPSocketClient\TCPSocketClient\obj\Debug\TCPSocketClient.exe
+C:\Users\Пользователь\source\repos\IB\Lab1\TCPSocketClient\TCPSocketClient\obj\Debug\TCPSocketClient.pdb
+c:\Users\Пользователь\source\repos\Lab2\TCPSocketClient\TCPSocketClient\bin\Debug\TCPSocketClient.exe.config
+c:\Users\Пользователь\source\repos\Lab2\TCPSocketClient\TCPSocketClient\bin\Debug\TCPSocketClient.exe
+c:\Users\Пользователь\source\repos\Lab2\TCPSocketClient\TCPSocketClient\bin\Debug\TCPSocketClient.pdb
+c:\Users\Пользователь\source\repos\Lab2\TCPSocketClient\TCPSocketClient\obj\Debug\TCPSocketClient.csprojAssemblyReference.cache
+c:\Users\Пользователь\source\repos\Lab2\TCPSocketClient\TCPSocketClient\obj\Debug\TCPSocketClient.Form1.resources
+c:\Users\Пользователь\source\repos\Lab2\TCPSocketClient\TCPSocketClient\obj\Debug\TCPSocketClient.Properties.Resources.resources
+c:\Users\Пользователь\source\repos\Lab2\TCPSocketClient\TCPSocketClient\obj\Debug\TCPSocketClient.csproj.GenerateResource.cache
+c:\Users\Пользователь\source\repos\Lab2\TCPSocketClient\TCPSocketClient\obj\Debug\TCPSocketClient.csproj.CoreCompileInputs.cache
+c:\Users\Пользователь\source\repos\Lab2\TCPSocketClient\TCPSocketClient\obj\Debug\TCPSocketClient.exe
+c:\Users\Пользователь\source\repos\Lab2\TCPSocketClient\TCPSocketClient\obj\Debug\TCPSocketClient.pdb
+D:\Исходный код\TCPSocketClient\TCPSocketClient\bin\Debug\TCPSocketClient.exe.config
+D:\Исходный код\TCPSocketClient\TCPSocketClient\bin\Debug\TCPSocketClient.exe
+D:\Исходный код\TCPSocketClient\TCPSocketClient\bin\Debug\TCPSocketClient.pdb
+D:\Исходный код\TCPSocketClient\TCPSocketClient\obj\Debug\TCPSocketClient.csproj.AssemblyReference.cache
+D:\Исходный код\TCPSocketClient\TCPSocketClient\obj\Debug\TCPSocketClient.csproj.SuggestedBindingRedirects.cache
+D:\Исходный код\TCPSocketClient\TCPSocketClient\obj\Debug\TCPSocketClient.Form1.resources
+D:\Исходный код\TCPSocketClient\TCPSocketClient\obj\Debug\TCPSocketClient.Properties.Resources.resources
+D:\Исходный код\TCPSocketClient\TCPSocketClient\obj\Debug\TCPSocketClient.csproj.GenerateResource.cache
+D:\Исходный код\TCPSocketClient\TCPSocketClient\obj\Debug\TCPSocketClient.csproj.CoreCompileInputs.cache
+D:\Исходный код\TCPSocketClient\TCPSocketClient\obj\Debug\TCPSocketClient.exe
+D:\Исходный код\TCPSocketClient\TCPSocketClient\obj\Debug\TCPSocketClient.pdb
+D:\Новая папка\Исходный код\TCPSocketClient\TCPSocketClient\bin\Debug\TCPSocketClient.exe.config
+D:\Новая папка\Исходный код\TCPSocketClient\TCPSocketClient\bin\Debug\TCPSocketClient.exe
+D:\Новая папка\Исходный код\TCPSocketClient\TCPSocketClient\bin\Debug\TCPSocketClient.pdb
+D:\Новая папка\Исходный код\TCPSocketClient\TCPSocketClient\obj\Debug\TCPSocketClient.csproj.AssemblyReference.cache
+D:\Новая папка\Исходный код\TCPSocketClient\TCPSocketClient\obj\Debug\TCPSocketClient.Form1.resources
+D:\Новая папка\Исходный код\TCPSocketClient\TCPSocketClient\obj\Debug\TCPSocketClient.Properties.Resources.resources
+D:\Новая папка\Исходный код\TCPSocketClient\TCPSocketClient\obj\Debug\TCPSocketClient.csproj.GenerateResource.cache
+D:\Новая папка\Исходный код\TCPSocketClient\TCPSocketClient\obj\Debug\TCPSocketClient.csproj.CoreCompileInputs.cache
+D:\Новая папка\Исходный код\TCPSocketClient\TCPSocketClient\obj\Debug\TCPSocketClient.exe
+D:\Новая папка\Исходный код\TCPSocketClient\TCPSocketClient\obj\Debug\TCPSocketClient.pdb
+C:\Users\nosko\OneDrive\Рабочий стол\Исходный код\TCPSocketClient\TCPSocketClient\bin\Debug\TCPSocketClient.exe.config
+C:\Users\nosko\OneDrive\Рабочий стол\Исходный код\TCPSocketClient\TCPSocketClient\bin\Debug\TCPSocketClient.exe
+C:\Users\nosko\OneDrive\Рабочий стол\Исходный код\TCPSocketClient\TCPSocketClient\bin\Debug\TCPSocketClient.pdb
+C:\Users\nosko\OneDrive\Рабочий стол\Исходный код\TCPSocketClient\TCPSocketClient\obj\Debug\TCPSocketClient.csproj.AssemblyReference.cache
+C:\Users\nosko\OneDrive\Рабочий стол\Исходный код\TCPSocketClient\TCPSocketClient\obj\Debug\TCPSocketClient.Form1.resources
+C:\Users\nosko\OneDrive\Рабочий стол\Исходный код\TCPSocketClient\TCPSocketClient\obj\Debug\TCPSocketClient.Properties.Resources.resources
+C:\Users\nosko\OneDrive\Рабочий стол\Исходный код\TCPSocketClient\TCPSocketClient\obj\Debug\TCPSocketClient.csproj.GenerateResource.cache
+C:\Users\nosko\OneDrive\Рабочий стол\Исходный код\TCPSocketClient\TCPSocketClient\obj\Debug\TCPSocketClient.csproj.CoreCompileInputs.cache
+C:\Users\nosko\OneDrive\Рабочий стол\Исходный код\TCPSocketClient\TCPSocketClient\obj\Debug\TCPSocketClient.exe
+C:\Users\nosko\OneDrive\Рабочий стол\Исходный код\TCPSocketClient\TCPSocketClient\obj\Debug\TCPSocketClient.pdb
